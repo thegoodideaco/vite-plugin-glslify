@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-glslify",
+  "name": "@thegoodideaco/vite-plugin-glslify",
   "version": "2.0.2",
   "description": "Literals collector for Vite",
   "main": "dist/index.js",
